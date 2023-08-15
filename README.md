@@ -1,5 +1,5 @@
 # Labrestrap
-Laravel 10 Starter Kit with Laravel Breeze and Twitter Bootstrap
+Laravel 10 Starter Kit with Laravel Breeze and Twitter Bootstrap. 
 I Change tailwind with bootstrap but use breeze not laravel/ui
 
 ## Installation
@@ -8,7 +8,10 @@ I Change tailwind with bootstrap but use breeze not laravel/ui
 ```
 git clone https://github.com/abumaryam/labrestrap.git
 ```
-
+- Run composer
+```
+composer install
+```
 - Rename `.env.example` file to .env and edit database configuration in there. After that, run key generate
 ```
 php artisan key:generate
