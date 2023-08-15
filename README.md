@@ -3,7 +3,7 @@ Laravel with Laravel Breeze and Twitter Bootstrap
 
 ## notes
 
-In `node_modules\bootstrap\scss\mixins\_grid.scss` edit  59 line from: 
+In `node_modules\bootstrap\scss\mixins\_grid.scss` edit  line 59 from: 
 ```
     width: divide(100%, $count);
 ```
